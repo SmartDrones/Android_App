@@ -16,4 +16,5 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    'net.ealden.gradle.plugins:gradle-androidannotations-plugin:0.3.0'
 }
